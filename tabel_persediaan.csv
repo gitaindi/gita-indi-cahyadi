@@ -1,0 +1,21 @@
+ID_Persediaan,ID_Produk,Nama_Produk,Deskripsi,Harga,Jumlah_Stok
+1,1,Produk A,Elektronik Gadget,100000,500
+2,2,Produk B,Pakaian Olahraga,150000,300
+3,3,Produk C,Sepatu Sneakers,250000,200
+4,4,Produk D,Laptop Gaming,1500000,100
+5,5,Produk E,Smartphone,500000,400
+6,6,Produk F,Jam Tangan Pintar,750000,250
+7,7,Produk G,Tas Ransel,200000,350
+8,8,Produk H,Meja Kerja,600000,150
+9,9,Produk I,Kursi Ergonomis,300000,100
+10,10,Produk J,Kamera Digital,1200000,80
+11,11,Produk K,Kulkas,4000000,50
+12,12,Produk L,Microwave,900000,75
+13,13,Produk M,Blender,350000,200
+14,14,Produk N,Rice Cooker,300000,150
+15,15,Produk O,Vacuum Cleaner,600000,100
+16,16,Produk P,Set Peralatan Dapur,250000,250
+17,17,Produk Q,Alat Musik,800000,60
+18,18,Produk R,Televisi LED,2500000,40
+19,19,Produk S,Proyektor,1800000,30
+20,20,Produk T,Headphone,400000,200
